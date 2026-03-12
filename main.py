@@ -152,7 +152,7 @@ while True:
     elif opcion == "2":
         nombre = input("ingresa el nombre alumno")
         alumnos.remove(nombre)
-        print(alumnos)
+        prin[t(alumnos)
     elif opcion == 3:
         print("buscar alumno")
     else:
@@ -160,14 +160,8 @@ while True:
 
 alumnos = ["carlos", "manuel"]
 
-
-
-
-
 for i in range(0):
     print(i)
-
-
 
 #rango si le paso 4 me genera = 0,1,2,3
 #10  = 0,1,2,3,4,5,6,7,8,9
@@ -185,39 +179,13 @@ if palindromo == texto[::-1]:
     print("esto es un palindromo!!!!")
 
 print(texto[::-1]) 
-
-
 print(texto.count("a"))
     
-    
-    
-
-
-       
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##diccionarios
+
+
+
 
 
 
